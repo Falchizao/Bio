@@ -28,7 +28,7 @@
 
 
 ## FinanceWEB
-* **Descricao:** Aplicativo para exemplificar o algoritmo de Dijkstra publicado na playstore
+* **Descricao:** Aplicativo de gestão financeira
 * **Tecnologias:** Java, Spring-boot, React, Typescript e PostgreSQL
 * **Link:** [financeweb](https://github.com/Falchizao/financeweb)
 
