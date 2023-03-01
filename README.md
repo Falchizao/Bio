@@ -17,7 +17,7 @@
 * **Link:** [dealership](https://github.com/Falchizao/dealership)
 
 ## Task management
-* **Descricao:** Projeto de uma api TODO realisado durante o intensivão rust crash course to the moon
+* **Descricao:** Projeto de uma api TODO realizado durante o intensivão rust crash course to the moon
 * **Tecnologias:** Rust e Dynamodb 
 * **Link:** [task](https://github.com/Falchizao/task-management-webservice)
 
